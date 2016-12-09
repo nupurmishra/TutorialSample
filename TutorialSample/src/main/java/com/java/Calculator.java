@@ -18,6 +18,7 @@ public class Calculator {
 	}
 	
 	public int div(int a,int b){
+		System.out.println("This is div method ...");
 		return (a/b);
 	}
 	
