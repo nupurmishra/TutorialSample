@@ -13,6 +13,7 @@ public class Calculator {
 	}
 	
 	public int multiply(int a,int b){
+		System.out.println("This is ply method ...");
 		return (a*b);
 	}
 	
