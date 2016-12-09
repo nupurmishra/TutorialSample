@@ -8,6 +8,7 @@ public class Calculator {
 	}
 	
 	public int sub(int a,int b){
+		System.out.println("This is subtract method ...");
 		return (a-b);
 	}
 	
